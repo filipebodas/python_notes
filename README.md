@@ -7,3 +7,6 @@ This repository will serve as a compilation of things that I have been learning.
 
 **November 13th and November 25th** <br/>
 CS_1: Python Fundamentals
+
+**November 26th and November 27th** <br/>
+CS_2: Numpy
