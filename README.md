@@ -2,7 +2,7 @@
 
 This repository will serve as a compilation of things that I have been learning. 
 
-**GOAL:** Get confortable to use this less often as I continue my journey
+**GOAL:** Serve as support for my daily tasks
 
 
 **November 13th and November 25th** <br/>
