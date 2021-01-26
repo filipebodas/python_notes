@@ -11,5 +11,5 @@ Note_1: Python Fundamentals
 **November 26th and November 27th** <br/>
 Note_2: Numpy
 
-**December** <br/>
+**December + January** <br/>
 Note_3: Pandas
